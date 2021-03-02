@@ -30,13 +30,11 @@ class Page3 {
         print(abc.0)
         let abd = (number:4, double:3.141592, string:"abcdefg")
         print(abd.number)
-        
         /// 옵셔널
         var g:Int? = 4
         print(a)
         let h = g!
         print(b)
-        
         /// 딕셔너리
         let abe:[String:String] = [ "길동" : "111-434",
                                     "길수" : "112-443"]
