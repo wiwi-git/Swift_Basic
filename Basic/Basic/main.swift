@@ -7,5 +7,5 @@
 
 import Foundation
 
-let page3 = Page3()
-page3.page3()
+let page5 = Page5()
+page5.page5()

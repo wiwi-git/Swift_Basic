@@ -11,6 +11,8 @@
 		1791ACBC25EE1FAA009C38D6 /* Page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1791ACBB25EE1FAA009C38D6 /* Page2.swift */; };
 		1791ACBF25EE1FB0009C38D6 /* Page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1791ACBE25EE1FB0009C38D6 /* Page3.swift */; };
 		1791ACC225EE2081009C38D6 /* Page1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1791ACC125EE2081009C38D6 /* Page1.swift */; };
+		17FD3ACE25F0CE35005A5070 /* Page4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD3ACD25F0CE35005A5070 /* Page4.swift */; };
+		17FD3AD125F0D4F3005A5070 /* Page5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD3AD025F0D4F3005A5070 /* Page5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		1791ACBB25EE1FAA009C38D6 /* Page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2.swift; sourceTree = "<group>"; };
 		1791ACBE25EE1FB0009C38D6 /* Page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page3.swift; sourceTree = "<group>"; };
 		1791ACC125EE2081009C38D6 /* Page1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page1.swift; sourceTree = "<group>"; };
+		17FD3ACD25F0CE35005A5070 /* Page4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page4.swift; sourceTree = "<group>"; };
+		17FD3AD025F0D4F3005A5070 /* Page5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				1791ACC125EE2081009C38D6 /* Page1.swift */,
 				1791ACBB25EE1FAA009C38D6 /* Page2.swift */,
 				1791ACBE25EE1FB0009C38D6 /* Page3.swift */,
+				17FD3ACD25F0CE35005A5070 /* Page4.swift */,
+				17FD3AD025F0D4F3005A5070 /* Page5.swift */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -129,8 +135,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1791ACC225EE2081009C38D6 /* Page1.swift in Sources */,
+				17FD3ACE25F0CE35005A5070 /* Page4.swift in Sources */,
 				1791ACAD25EE1B10009C38D6 /* main.swift in Sources */,
 				1791ACBF25EE1FB0009C38D6 /* Page3.swift in Sources */,
+				17FD3AD125F0D4F3005A5070 /* Page5.swift in Sources */,
 				1791ACBC25EE1FAA009C38D6 /* Page2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
