@@ -13,6 +13,7 @@
 		1791ACC225EE2081009C38D6 /* Page1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1791ACC125EE2081009C38D6 /* Page1.swift */; };
 		179A39CB2636A4A9005F6F65 /* Page6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39CA2636A4A9005F6F65 /* Page6.swift */; };
 		179A39CF2637BC55005F6F65 /* Page7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39CE2637BC55005F6F65 /* Page7.swift */; };
+		179A39D526393319005F6F65 /* Page8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39D426393319005F6F65 /* Page8.swift */; };
 		17FD3ACE25F0CE35005A5070 /* Page4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD3ACD25F0CE35005A5070 /* Page4.swift */; };
 		17FD3AD125F0D4F3005A5070 /* Page5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD3AD025F0D4F3005A5070 /* Page5.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		1791ACC125EE2081009C38D6 /* Page1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page1.swift; sourceTree = "<group>"; };
 		179A39CA2636A4A9005F6F65 /* Page6.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Page6.swift; sourceTree = "<group>"; tabWidth = 2; };
 		179A39CE2637BC55005F6F65 /* Page7.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Page7.swift; sourceTree = "<group>"; tabWidth = 2; };
+		179A39D426393319005F6F65 /* Page8.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Page8.swift; sourceTree = "<group>"; tabWidth = 2; };
 		17FD3ACD25F0CE35005A5070 /* Page4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page4.swift; sourceTree = "<group>"; };
 		17FD3AD025F0D4F3005A5070 /* Page5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,6 +81,7 @@
 				17FD3AD025F0D4F3005A5070 /* Page5.swift */,
 				179A39CA2636A4A9005F6F65 /* Page6.swift */,
 				179A39CE2637BC55005F6F65 /* Page7.swift */,
+				179A39D426393319005F6F65 /* Page8.swift */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1791ACC225EE2081009C38D6 /* Page1.swift in Sources */,
+				179A39D526393319005F6F65 /* Page8.swift in Sources */,
 				17FD3ACE25F0CE35005A5070 /* Page4.swift in Sources */,
 				179A39CF2637BC55005F6F65 /* Page7.swift in Sources */,
 				179A39CB2636A4A9005F6F65 /* Page6.swift in Sources */,
